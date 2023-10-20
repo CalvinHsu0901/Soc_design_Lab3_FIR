@@ -1,5 +1,5 @@
 # Soc_design_Lab3_FIR
-FIR with AXI-lite & AXI-streaming interfaces
+11 taps FIR with AXI-lite & AXI-streaming interfaces
 
 1.Block Diagram:
 FIR top:
