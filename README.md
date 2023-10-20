@@ -1,5 +1,6 @@
 # Soc_design_Lab3_FIR
 11-taps FIR with AXI-lite & AXI-streaming interfaces
+  
 ## Specification
 - Data_Width  32
 - Tape_Num    11
@@ -18,8 +19,8 @@ Operation
 - ap_start to initiate FIR engine (ap_start valid for one clock cycle)
 - Stream-in Xn. The rate is depending on the FIR processing speed. Use axi-stream valid/ready for flow control
 - Stream out Yn, the output rate depends on FIR processing speed.
-
-1.Block Diagram:
+  
+##Block Diagram:
 FIR top:
 ![FIR top](FIR_top.png)
 
