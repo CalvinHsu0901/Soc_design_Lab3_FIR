@@ -3,7 +3,7 @@ FIR with AXI-lite & AXI-streaming interfaces
 
 1.Block Diagram:
 FIR top:
-![FIR](FIR.jpg)
+![FIR top](FIR_top.jpg)
 
 FIR ALU:
 ![FIR](FIR.jpg)
